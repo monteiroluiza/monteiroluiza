@@ -14,7 +14,7 @@
 <div style="display: inline_block"> 
  
  <a href = "mailto:luiza.monteiroweb@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- <a href="https://www.linkedin.com/in/luizamonteiroo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ <a href="https://linkedin.com/in/luiza-monteiroo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  <img height="120cm" align="right" src="https://c.tenor.com/kmHEH_VM-y4AAAAC/spy-x-family-spy-family.gif"/>
  
 <p>future front-end programmer, determined to learn even more.</p>
