@@ -19,7 +19,4 @@
  
 <p>future front-end programmer, determined to learn even more.</p>
 <i>"to the stars who listen and the dreams that are answered"<i>
-
-![Snake animation](https://github.com/monteiroluiza/monteiroluiza/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
