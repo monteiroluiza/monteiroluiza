@@ -1,6 +1,6 @@
 <h2 align="left">
-  안녕! It's me, Malu! 😊
-  <img src="https://i.pinimg.com/originals/9d/d1/a0/9dd1a0c90caa865e3718947e2b91d35e.gif">
+  안녕! It's me, Malu!
+  <img height="20cm" src="https://i.pinimg.com/originals/9d/d1/a0/9dd1a0c90caa865e3718947e2b91d35e.gif">
 </h2>
 
 <div align="center">
