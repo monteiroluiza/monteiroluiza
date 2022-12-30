@@ -2,9 +2,9 @@
   안녕! 
   <img height="40cm" src="https://i.pinimg.com/originals/9d/d1/a0/9dd1a0c90caa865e3718947e2b91d35e.gif">
 </h2>
-<p font-size="12px">It's me, Malu! I'm a software development at GCTI, who works as a fullstack, but has more affinity with the frontend.</p>
 
-<img height="70cm" display: flex src="https://thumbs.gfycat.com/SoupyRaggedCentipede-max-1mb.gif">
+<img height="70cm" style="display: inline-block" src="https://thumbs.gfycat.com/SoupyRaggedCentipede-max-1mb.gif">
+<p font-size="12px">It's me, Malu! I'm a software development at GCTI, who works as a fullstack, but has more affinity with the frontend.</p>
 
 <ul>
   <li>Graduated at IT by IFRN. :mortar_board:</li>
