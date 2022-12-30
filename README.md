@@ -3,7 +3,6 @@
   <img height="40cm" src="https://i.pinimg.com/originals/9d/d1/a0/9dd1a0c90caa865e3718947e2b91d35e.gif">
 </h2>
 
-<img height="70cm" style="display: inline-block" src="https://thumbs.gfycat.com/SoupyRaggedCentipede-max-1mb.gif">
 <p font-size="12px">It's me, Malu! I'm a software development at GCTI, who works as a fullstack, but has more affinity with the frontend.</p>
 
 <ul>
@@ -11,6 +10,10 @@
   <li>I want to continue studying and training. :bell:</li>
   <li>I like games!! Anime, music and animated movies. :vhs:</li>
 <ul>
+
+##
+
+<img height="60cm" style="display: inline-block" src="https://thumbs.gfycat.com/SoupyRaggedCentipede-max-1mb.gif">
 
   ##
   
