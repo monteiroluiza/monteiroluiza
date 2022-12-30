@@ -6,9 +6,9 @@
 <p font-size="12px">It's me, Malu! I'm a software development at GCTI, who works as a fullstack, but has more affinity with the frontend.</p>
 
 <ul>
-  <li>Graduated at IT by IFRN. :mortar_board:</li>
-  <li>I want to continue studying and training. :bell:</li>
-  <li>I like games!! Anime, music and animated movies. :vhs:</li>
+  <li>graduated at IT by IFRN. :mortar_board:</li>
+  <li>wants to continue studying and training. :bell:</li>
+  <li>likes games!! + anime, music and animated movies. :vhs:</li>
 <ul>
   
 <img height="60cm" style="display: inline-block" margin-top="2px" src="https://thumbs.gfycat.com/SoupyRaggedCentipede-max-1mb.gif">
