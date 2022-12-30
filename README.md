@@ -1,5 +1,6 @@
-<h2 align="center">
-  Hey, it's me, Maria! 😊
+<h2 align="left">
+  안녕! It's me, Malu! 😊
+  <img src="https://i.pinimg.com/originals/9d/d1/a0/9dd1a0c90caa865e3718947e2b91d35e.gif">
 </h2>
 
 <div align="center">
