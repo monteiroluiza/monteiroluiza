@@ -1,7 +1,8 @@
-<h2 align="left">
-  안녕! It's me, Malu!
-  <img height="20cm" src="https://i.pinimg.com/originals/9d/d1/a0/9dd1a0c90caa865e3718947e2b91d35e.gif">
-</h2>
+<h3 align="left">
+  안녕! 
+  <img height="40cm" src="https://i.pinimg.com/originals/9d/d1/a0/9dd1a0c90caa865e3718947e2b91d35e.gif">
+</h3>
+<p>it's me, Malu!</p>
 
 <div align="center">
   <a href="https://github.com/monteiroluiza">
