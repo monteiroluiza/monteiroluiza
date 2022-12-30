@@ -8,7 +8,11 @@
   <li>I want to continue studying and training. :bell:</li>
   <li>I like games!! Anime, music and animated movies. :vhs:</li>
 <ul>
+  
+<img height="30cm" style="display: flex" src="https://thumbs.gfycat.com/SoupyRaggedCentipede-max-1mb.gif">
 
+  ##
+  
 <div align="center">
   <a href="https://github.com/monteiroluiza">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=monteiroluiza&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
