@@ -10,10 +10,8 @@
   <li>I want to continue studying and training. :bell:</li>
   <li>I like games!! Anime, music and animated movies. :vhs:</li>
 <ul>
-
-##
-
-<img height="60cm" style="display: inline-block" src="https://thumbs.gfycat.com/SoupyRaggedCentipede-max-1mb.gif">
+  
+<img height="60cm" style="display: inline-block, margin-top: 2px" src="https://thumbs.gfycat.com/SoupyRaggedCentipede-max-1mb.gif">
 
   ##
   
