@@ -3,9 +3,9 @@
   <img height="40cm" src="https://i.pinimg.com/originals/9d/d1/a0/9dd1a0c90caa865e3718947e2b91d35e.gif">
 </h2>
 
-<p font-size="12px">It's me, Malu! I'm a software development at GCTI, who works as a fullstack, but has more affinity with the frontend.</p>
+<p font-size="12px">It's me, Malu! I'm a software development at GCTI, where I work as a fullstack, but with more affinity on the frontend.</p>
 
-  - graduated at IT by IFRN. :mortar_board:</li> <img height="60cm" style="display: inline-block" align="right" src="https://thumbs.gfycat.com/SoupyRaggedCentipede-max-1mb.gif">
+  - graduated at IT by IFRN. :mortar_board:</li> <img height="70cm" style="display: inline-block" align="right" src="https://thumbs.gfycat.com/SoupyRaggedCentipede-max-1mb.gif">
   - wants to continue studying and training. :bell:</li>
   - likes games!! + anime, music and animated movies. :vhs:</li>
 
