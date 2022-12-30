@@ -4,7 +4,7 @@
 </h2>
 <p font-size="12px">It's me, Malu! I'm a software development at GCTI, who works as a fullstack, but has more affinity with the frontend.</p>
 
-<img height="50cm" style="display: inline-block" src="https://thumbs.gfycat.com/SoupyRaggedCentipede-max-1mb.gif">
+<img height="70cm" display: flex src="https://thumbs.gfycat.com/SoupyRaggedCentipede-max-1mb.gif">
 
 <ul>
   <li>Graduated at IT by IFRN. :mortar_board:</li>
