@@ -9,7 +9,7 @@
   <li>I like games!! Anime, music and animated movies. :vhs:</li>
 <ul>
   
-<img height="30cm" style="display: flex" src="https://thumbs.gfycat.com/SoupyRaggedCentipede-max-1mb.gif">
+<img style="display: inline-block" src="https://thumbs.gfycat.com/SoupyRaggedCentipede-max-1mb.gif">
 
   ##
   
