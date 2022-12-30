@@ -1,13 +1,13 @@
-<h3 align="left">
+<h2 align="left">
   안녕! 
   <img height="40cm" src="https://i.pinimg.com/originals/9d/d1/a0/9dd1a0c90caa865e3718947e2b91d35e.gif">
-</h3>
-<p>it's me, Malu!</p>
+</h2>
+<p font-size="12px">It's me, Malu!</p>
 
 <div align="center">
   <a href="https://github.com/monteiroluiza">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=monteiroluiza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monteiroluiza&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=monteiroluiza&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monteiroluiza&layout=compact&langs_count=7&theme=vue"/>
 </div>
 
 ##
