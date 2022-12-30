@@ -5,13 +5,11 @@
 
 <p font-size="12px">It's me, Malu! I'm a software development at GCTI, who works as a fullstack, but has more affinity with the frontend.</p>
 
-<ul>
-  <li>graduated at IT by IFRN. :mortar_board:</li>
-  <li>wants to continue studying and training. :bell:</li>
-  <li>likes games!! + anime, music and animated movies. :vhs:</li>
-<ul>
+  - graduated at IT by IFRN. :mortar_board:</li>
+  - wants to continue studying and training. :bell:</li>
+  - likes games!! + anime, music and animated movies. :vhs:</li>
   
-<img height="60cm" style="display: inline-block" margin-top="2px" src="https://thumbs.gfycat.com/SoupyRaggedCentipede-max-1mb.gif">
+<img height="60cm" style="display: inline-block" align="right" src="https://thumbs.gfycat.com/SoupyRaggedCentipede-max-1mb.gif">
 
   ##
   
